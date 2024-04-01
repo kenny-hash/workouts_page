@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>2021-09-16 上午  骑行</name>
+    <desc>行者骑行软件</desc>
+    <time>2021-09-16T11:13:03Z</time>
+    <keywords>行者骑行软件</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>104071405</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="31.316968" lon="121.491488">
+        <ele>6.0</ele>
+        <time>2021-09-16T11:13:03Z</time>
+      </trkpt>
+      <trkpt lat="31.317108" lon="121.491492">
+        <ele>5.2</ele>
+        <time>2021-09-16T11:13:07Z</time>
+      </trkpt>
+      <trkpt lat="31.317276" lon="121.49149">
+        <ele>5.8</ele>
+        <time>2021-09-16T11:13:13Z</time>
+      </trkpt>
+      <trkpt lat="31.317479" lon="121.491448">
+        <ele>6.7</ele>
+        <time>2021-09-16T11:13:17Z</time>
+      </trkpt>
+      <trkpt lat="31.317691" lon="121.491439">
+        <ele>6.5</ele>
+        <time>2021-09-16T11:13:21Z</time>
+      </trkpt>
+      <trkpt lat="31.317929" lon="121.491399">
+        <ele>7.2</ele>
+        <time>2021-09-16T11:13:25Z</time>
+      </trkpt>
+      <trkpt lat="31.318151" lon="121.491393">
+        <ele>6.2</ele>
+        <time>2021-09-16T11:13:28Z</time>
+      </trkpt>
+      <trkpt lat="31.3183" lon="121.491374">
+        <ele>7.1</ele>
+        <time>2021-09-16T11:13:30Z</time>
+      </trkpt>
+      <trkpt lat="31.318449" lon="121.491373">
+        <ele>5.7</ele>
+        <time>2021-09-16T11:13:32Z</time>
+      </trkpt>
+      <trkpt lat="31.318658" lon="121.491346">
+        <ele>5.9</ele>
+        <time>2021-09-16T11:13:35Z</time>
+      </trkpt>
+      <trkpt lat="31.318906" lon="121.491321">
+        <ele>7.5</ele>
+        <time>2021-09-16T11:13:39Z</time>
+      </trkpt>
+      <trkpt lat="31.319144" lon="121.491356">
+        <ele>6.8</ele>
+        <time>2021-09-16T11:13:43Z</time>
+      </trkpt>
+      <trkpt lat="31.31933" lon="121.49143">
+        <ele>7.6</ele>
+        <time>2021-09-16T11:13:47Z</time>
+      </trkpt>
+      <trkpt lat="31.319509" lon="121.491405">
+        <ele>7.7</ele>
+        <time>2021-09-16T11:13:51Z</time>
+      </trkpt>
+      <trkpt lat="31.319695" lon="121.491375">
+        <ele>6.2</ele>
+        <time>2021-09-16T11:13:55Z</time>
+      </trkpt>
+      <trkpt lat="31.319923" lon="121.491367">
+        <ele>6.2</ele>
+        <time>2021-09-16T11:13:59Z</time>
+      </trkpt>
+      <trkpt lat="31.320121" lon="121.491372">
+        <ele>8.0</ele>
+        <time>2021-09-16T11:14:03Z</time>
+      </trkpt>
+      <trkpt lat="31.320389" lon="121.491345">
+        <ele>8.3</ele>
+        <time>2021-09-16T11:14:08Z</time>
+      </trkpt>
+      <trkpt lat="31.320607" lon="121.491342">
+        <ele>7.2</ele>
+        <time>2021-09-16T11:14:11Z</time>
+      </trkpt>
+      <trkpt lat="31.320759" lon="121.491333">
+        <ele>6.8</ele>
+        <time>2021-09-16T11:14:13Z</time>
+      </trkpt>
+      <trkpt lat="31.320912" lon="121.491317">
+        <ele>7.4</ele>
+        <time>2021-09-16T11:14:15Z</time>
+      </trkpt>
+      <trkpt lat="31.321064" lon="121.49132">
+        <ele>6.9</ele>
+        <time>2021-09-16T11:14:17Z</time>
+      </trkpt>
+      <trkpt lat="31.32121" lon="121.491312">
+        <ele>6.4</ele>
+        <time>2021-09-16T11:14:19Z</time>
+      </trkpt>
+      <trkpt lat="31.321357" lon="121.491295">
+        <ele>7.2</ele>
+        <time>2021-09-16T11:14:21Z</time>
+      </trkpt>
+      <trkpt lat="31.321504" lon="121.491301">
+        <ele>7.1</ele>
+        <time>2021-09-16T11:14:23Z</time>
+      </trkpt>
+      <trkpt lat="31.321624" lon="121.491298">
+        <ele>6.7</ele>
+        <time>2021-09-16T11:14:25Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

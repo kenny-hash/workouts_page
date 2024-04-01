@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>2021-09-24 下午  骑行</name>
+    <desc>行者骑行软件</desc>
+    <time>2021-09-24T23:52:12Z</time>
+    <keywords>行者骑行软件</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>104381432</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="31.318871" lon="121.486155">
+        <ele>8.1</ele>
+        <time>2021-09-24T23:52:12Z</time>
+      </trkpt>
+      <trkpt lat="31.318722" lon="121.486132">
+        <ele>8.7</ele>
+        <time>2021-09-24T23:52:16Z</time>
+      </trkpt>
+      <trkpt lat="31.318537" lon="121.486104">
+        <ele>9.6</ele>
+        <time>2021-09-24T23:52:20Z</time>
+      </trkpt>
+      <trkpt lat="31.318258" lon="121.486061">
+        <ele>10.1</ele>
+        <time>2021-09-24T23:52:24Z</time>
+      </trkpt>
+      <trkpt lat="31.318105" lon="121.486037">
+        <ele>9.4</ele>
+        <time>2021-09-24T23:52:26Z</time>
+      </trkpt>
+      <trkpt lat="31.317947" lon="121.486013">
+        <ele>9.7</ele>
+        <time>2021-09-24T23:52:28Z</time>
+      </trkpt>
+      <trkpt lat="31.317791" lon="121.48599">
+        <ele>9.3</ele>
+        <time>2021-09-24T23:52:30Z</time>
+      </trkpt>
+      <trkpt lat="31.317637" lon="121.485967">
+        <ele>9.2</ele>
+        <time>2021-09-24T23:52:32Z</time>
+      </trkpt>
+      <trkpt lat="31.317483" lon="121.485945">
+        <ele>8.9</ele>
+        <time>2021-09-24T23:52:34Z</time>
+      </trkpt>
+      <trkpt lat="31.317332" lon="121.485922">
+        <ele>8.7</ele>
+        <time>2021-09-24T23:52:36Z</time>
+      </trkpt>
+      <trkpt lat="31.317181" lon="121.4859">
+        <ele>8.8</ele>
+        <time>2021-09-24T23:52:38Z</time>
+      </trkpt>
+      <trkpt lat="31.317107" lon="121.485889">
+        <ele>9.0</ele>
+        <time>2021-09-24T23:52:39Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

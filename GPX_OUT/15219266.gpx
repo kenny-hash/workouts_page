@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>2016-08-26 晚上 徒步</name>
+    <desc>行者骑行软件</desc>
+    <time>2016-08-26T20:04:23Z</time>
+    <keywords>行者骑行软件</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>15219266</number>
+    <type>Hike</type>
+    <trkseg>
+      <trkpt lat="38.996517" lon="117.308603">
+        <ele>9.0</ele>
+        <time>2016-08-26T20:04:23Z</time>
+      </trkpt>
+      <trkpt lat="38.996576" lon="117.308619">
+        <ele>11.0</ele>
+        <time>2016-08-26T20:04:28Z</time>
+      </trkpt>
+      <trkpt lat="38.996626" lon="117.308617">
+        <ele>12.0</ele>
+        <time>2016-08-26T20:04:33Z</time>
+      </trkpt>
+      <trkpt lat="38.996672" lon="117.308608">
+        <ele>12.1</ele>
+        <time>2016-08-26T20:04:38Z</time>
+      </trkpt>
+      <trkpt lat="38.996727" lon="117.308603">
+        <ele>13.1</ele>
+        <time>2016-08-26T20:04:43Z</time>
+      </trkpt>
+      <trkpt lat="38.996779" lon="117.308597">
+        <ele>13.1</ele>
+        <time>2016-08-26T20:04:48Z</time>
+      </trkpt>
+      <trkpt lat="38.996842" lon="117.308608">
+        <ele>12.1</ele>
+        <time>2016-08-26T20:04:53Z</time>
+      </trkpt>
+      <trkpt lat="38.996912" lon="117.308619">
+        <ele>9.1</ele>
+        <time>2016-08-26T20:04:58Z</time>
+      </trkpt>
+      <trkpt lat="38.996975" lon="117.308628">
+        <ele>7.1</ele>
+        <time>2016-08-26T20:05:03Z</time>
+      </trkpt>
+      <trkpt lat="38.997036" lon="117.308636">
+        <ele>6.1</ele>
+        <time>2016-08-26T20:05:08Z</time>
+      </trkpt>
+      <trkpt lat="38.997108" lon="117.308652">
+        <ele>3.0</ele>
+        <time>2016-08-26T20:05:13Z</time>
+      </trkpt>
+      <trkpt lat="38.997167" lon="117.308664">
+        <ele>0.0</ele>
+        <time>2016-08-26T20:05:18Z</time>
+      </trkpt>
+      <trkpt lat="38.997241" lon="117.308695">
+        <ele>-2.0</ele>
+        <time>2016-08-26T20:05:23Z</time>
+      </trkpt>
+      <trkpt lat="38.997296" lon="117.308708">
+        <ele>-4.0</ele>
+        <time>2016-08-26T20:05:28Z</time>
+      </trkpt>
+      <trkpt lat="38.997337" lon="117.30873">
+        <ele>-4.0</ele>
+        <time>2016-08-26T20:05:33Z</time>
+      </trkpt>
+      <trkpt lat="38.997378" lon="117.308761">
+        <ele>-5.0</ele>
+        <time>2016-08-26T20:05:38Z</time>
+      </trkpt>
+      <trkpt lat="38.997412" lon="117.308763">
+        <ele>-7.0</ele>
+        <time>2016-08-26T20:05:43Z</time>
+      </trkpt>
+      <trkpt lat="38.997475" lon="117.308775">
+        <ele>-6.0</ele>
+        <time>2016-08-26T20:05:48Z</time>
+      </trkpt>
+      <trkpt lat="38.99754" lon="117.308776">
+        <ele>-6.0</ele>
+        <time>2016-08-26T20:05:53Z</time>
+      </trkpt>
+      <trkpt lat="38.997597" lon="117.308781">
+        <ele>-7.0</ele>
+        <time>2016-08-26T20:05:58Z</time>
+      </trkpt>
+      <trkpt lat="38.997648" lon="117.308803">
+        <ele>-7.0</ele>
+        <time>2016-08-26T20:06:03Z</time>
+      </trkpt>
+      <trkpt lat="38.997711" lon="117.308807">
+        <ele>-8.0</ele>
+        <time>2016-08-26T20:06:08Z</time>
+      </trkpt>
+      <trkpt lat="38.99778" lon="117.308822">
+        <ele>-8.0</ele>
+        <time>2016-08-26T20:06:13Z</time>
+      </trkpt>
+      <trkpt lat="38.997835" lon="117.308825">
+        <ele>-8.0</ele>
+        <time>2016-08-26T20:06:18Z</time>
+      </trkpt>
+      <trkpt lat="38.997888" lon="117.308818">
+        <ele>-9.0</ele>
+        <time>2016-08-26T20:06:23Z</time>
+      </trkpt>
+      <trkpt lat="38.997948" lon="117.308826">
+        <ele>-7.0</ele>
+        <time>2016-08-26T20:06:28Z</time>
+      </trkpt>
+      <trkpt lat="38.997988" lon="117.308812">
+        <ele>-7.0</ele>
+        <time>2016-08-26T20:06:33Z</time>
+      </trkpt>
+      <trkpt lat="38.998048" lon="117.308838">
+        <ele>-6.0</ele>
+        <time>2016-08-26T20:06:38Z</time>
+      </trkpt>
+      <trkpt lat="38.998098" lon="117.308825">
+        <ele>-7.0</ele>
+        <time>2016-08-26T20:06:43Z</time>
+      </trkpt>
+      <trkpt lat="38.998155" lon="117.308829">
+        <ele>-6.0</ele>
+        <time>2016-08-26T20:06:48Z</time>
+      </trkpt>
+      <trkpt lat="38.998204" lon="117.30882">
+        <ele>-5.0</ele>
+        <time>2016-08-26T20:06:53Z</time>
+      </trkpt>
+      <trkpt lat="38.998263" lon="117.308829">
+        <ele>-4.0</ele>
+        <time>2016-08-26T20:06:58Z</time>
+      </trkpt>
+      <trkpt lat="38.998308" lon="117.308829">
+        <ele>-3.0</ele>
+        <time>2016-08-26T20:07:03Z</time>
+      </trkpt>
+      <trkpt lat="38.998366" lon="117.308826">
+        <ele>-2.0</ele>
+        <time>2016-08-26T20:07:08Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
