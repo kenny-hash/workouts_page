@@ -658,5 +658,35 @@
 "average_speed": 3.7579562486537075,
 "source": "gpx.py -- https://github.com/tkrajina/gpxpy",
 "streak": 1
+},
+{
+"run_id": 1712052831000,
+"name": "2024-04-02 \u4e0a\u5348  \u9a91\u884c",
+"distance": 11023.130163021671,
+"moving_time": "0:37:52",
+"type": "Ride",
+"start_date": "2024-04-02 10:13:51",
+"start_date_local": "2024-04-02 18:13:51",
+"location_country": "Supreme Tower, 598\u53f7, \u5d02\u5c71\u8def, \u6f4d\u574a\u65b0\u6751\u8857\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200122, \u4e2d\u56fd",
+"summary_polyline": "}br}DypudVcAuFvSwG~LqDnGaAhM_@tIz@ZaAb@ENy[T{BzVspALuF[wHyE_WXi@`m@uGzAoAT{a@kAoQ{A_IiIgWeA_IU]y@JeAyGPiErCmB~Bk@jo@qJjEKvUeFBgF}E_SyIej@sGqo@sAmSuBmA_OTa@mD|@|A",
+"average_heartrate": null,
+"average_speed": 4.8517298252736225,
+"source": "gpx.py -- https://github.com/tkrajina/gpxpy",
+"streak": 1
+},
+{
+"run_id": 1712081178000,
+"name": "2024-04-02 \u4e0b\u5348  \u9a91\u884c",
+"distance": 12281.451279117624,
+"moving_time": "0:47:11",
+"type": "Ride",
+"start_date": "2024-04-02 18:06:18",
+"start_date_local": "2024-04-03 02:06:18",
+"location_country": "SAP Labs China, 1001, \u6668\u6656\u8def, \u5f20\u6c5f\u9547, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 201203, \u4e2d\u56fd",
+"summary_polyline": "klm}D{ndeVMh@Z|ClAtA|Ma@`@VhIl_ATFnFt_@tGj\\bCzHbKne@pBfR|Edz@y@b@kW`B}VnD_NxFwU|BqA_@YuL_BGGa@GeEh@qAoD~HiKr@wPrDqJbAmAv@Qn@l@rEvHt`@\\hKe@fEsQf~@i@pGcB`FWlINh{@g@dA_OOkHfAiMfD{M`He@dA~BbMjBLrAvHf@R",
+"average_heartrate": null,
+"average_speed": 4.338202500571397,
+"source": "gpx.py -- https://github.com/tkrajina/gpxpy",
+"streak": 2
 }
 ]
