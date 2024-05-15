@@ -718,5 +718,20 @@
 "average_speed": 3.104929837044311,
 "source": "gpx.py -- https://github.com/tkrajina/gpxpy",
 "streak": 1
+},
+{
+"run_id": 1715688419000,
+"name": "2024-05-14 \u4e0b\u5348  \u9a91\u884c",
+"distance": 22283.413846866817,
+"moving_time": "1:15:31",
+"type": "Ride",
+"start_date": "2024-05-14 12:06:59",
+"start_date_local": "2024-05-14 20:06:59",
+"location_country": "The Red Lion, 116, \u6f4d\u574a\u897f\u8def, \u8001\u767d\u6e21, \u6f4d\u574a\u65b0\u6751\u8857\u9053, \u5858\u6865, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200007, \u4e2d\u56fd",
+"summary_polyline": "alq}DyssdVfAN~UaFV_@aByINiAvZz@DaH[iDoCaJ[{CJix@x@uOhNwp@TkDhFmWMoLcF}WBy@tJcBha@kE^}AfAs@Vm^wAgUyBiJiFqOqBwLS]e@Lo@kAs@_I\\iBdDyBr`@iGhWoC`UqEz@iAYeDgEgPoJaj@_K{fAuAqA{Lf@iAGQc@Ao@xC|CdLSvKrhAhJ~i@vOjo@hCfOdHvgAQ\\qXvB_YvDcI|D}DbAaeA~Lg@|AbF`X^fFIjDcRfbAW]Jl@qCtNIr`@cJg@sOZgJfB",
+"average_heartrate": null,
+"average_speed": 4.917990255322626,
+"source": "gpx.py -- https://github.com/tkrajina/gpxpy",
+"streak": 2
 }
 ]
