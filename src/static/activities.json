@@ -733,5 +733,20 @@
 "average_speed": 4.917990255322626,
 "source": "gpx.py -- https://github.com/tkrajina/gpxpy",
 "streak": 2
+},
+{
+"run_id": 1715953206000,
+"name": "2024-05-17 \u4e0b\u5348  \u9a91\u884c",
+"distance": 832.77023985858,
+"moving_time": "0:07:01",
+"type": "Ride",
+"start_date": "2024-05-17 13:40:06",
+"start_date_local": "2024-05-17 21:40:06",
+"location_country": "\u6d66\u57ce\u8def, \u9646\u5bb6\u6e21, \u9646\u5bb6\u5634\u8857\u9053, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 200007, \u4e2d\u56fd",
+"summary_polyline": "ojs}DwrrdV]MqE_Sw@y@g@Dt@wB",
+"average_heartrate": null,
+"average_speed": 1.978076579236532,
+"source": "gpx.py -- https://github.com/tkrajina/gpxpy",
+"streak": 1
 }
 ]
