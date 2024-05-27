@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>2024-05-26 下午  骑行</name>
+    <desc>行者骑行软件</desc>
+    <time>2024-05-26T14:30:19Z</time>
+    <keywords>行者骑行软件</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>159476114</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="31.22429" lon="121.511724">
+        <ele>35.2</ele>
+        <time>2024-05-26T14:30:19Z</time>
+      </trkpt>
+      <trkpt lat="31.224285" lon="121.511737">
+        <ele>35.6</ele>
+        <time>2024-05-26T14:30:29Z</time>
+      </trkpt>
+      <trkpt lat="31.22419" lon="121.511788">
+        <ele>46.6</ele>
+        <time>2024-05-26T14:30:49Z</time>
+      </trkpt>
+      <trkpt lat="31.224139" lon="121.511815">
+        <ele>55.8</ele>
+        <time>2024-05-26T14:31:30Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
