@@ -90,7 +90,8 @@ jobs:
       - name: Run Own script
         if: env.RUN_TYPE == 'own'
         run: |
-          python run_page/xingzhe_sync.py ${{ secrets.XZ_EMAIL }} ${{ secrets.XZ_PASSWORD }}
+          python run_page/xingzhe_sync.py ${{ secrets.XZ_EMAIL }} ${{ secrets.XZ_PASSWORD }} --with-gpx
+          echo "xingzhe sync complete" >> "$GITHUB_OUTPUT"
           python run_page/strava_sync.py ${{ secrets.STRAVA_CLIENT_ID }} ${{ secrets.STRAVA_CLIENT_SECRET }} ${{ secrets.STRAVA_CLIENT_REFRESH_TOKEN }}          
       
       - name: Run Xingzhe script
