@@ -23,6 +23,7 @@ startYear = 2012
 # device info
 XINGZHE_URL_DICT = {
     "BASE_URL": "https://www.imxingzhe.com/user/login",
+    "SUMMARY_URL": "https://www.imxingzhe.com/api/v1/user/workout_summary",
     "ACTIVITY_LIST_URL": "https://www.imxingzhe.com/api/v4/user_month_info/?",
     "DOWNLOAD_GPX_URL": "https://www.imxingzhe.com/xing",
     "SSO_URL_ORIGIN": "https://www.imxingzhe.com/portal/",
