@@ -90,10 +90,13 @@ jobs:
       - name: Run Own script
         if: env.RUN_TYPE == 'own'
         run: |
+          echo "xingzhe start syncing"
           python run_page/xingzhe_sync.py ${{ secrets.XZ_EMAIL }} ${{ secrets.XZ_PASSWORD }} --with-gpx
-          echo "xingzhe sync complete" >> "$GITHUB_OUTPUT"
+          echo "xingzhe sync complete"
+          echo "strava start syncing"
           python run_page/strava_sync.py ${{ secrets.STRAVA_CLIENT_ID }} ${{ secrets.STRAVA_CLIENT_SECRET }} ${{ secrets.STRAVA_CLIENT_REFRESH_TOKEN }}          
-      
+          echo "strava sync complete"
+          
       - name: Run Xingzhe script
         if: env.RUN_TYPE == 'xingzhe'
         run: |
