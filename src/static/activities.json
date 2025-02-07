@@ -1582,5 +1582,21 @@
 "elevation_gain": 70.0,
 "source": "xingzhe",
 "streak": 1
+},
+{
+"run_id": 13553992553,
+"name": "Afternoon Ride",
+"distance": 0.0,
+"moving_time": "0:05:18",
+"type": "Ride",
+"start_date": "2025-02-06 09:59:03+00:00",
+"start_date_local": "2025-02-06 17:59:03",
+"location_country": "Macao",
+"summary_polyline": "",
+"average_heartrate": 181.8,
+"average_speed": 0.0,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
