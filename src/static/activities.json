@@ -1598,5 +1598,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13739914212,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 0.0,
+"moving_time": "0:16:11",
+"type": "Ride",
+"start_date": "2025-02-27 10:05:09+00:00",
+"start_date_local": "2025-02-27 18:05:09",
+"location_country": "Macao",
+"summary_polyline": "",
+"average_heartrate": 165.8,
+"average_speed": 0.0,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
 }
 ]
