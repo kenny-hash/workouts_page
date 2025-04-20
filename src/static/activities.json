@@ -1614,5 +1614,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14221113456,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 1802.3,
+"moving_time": "0:06:11",
+"type": "Ride",
+"start_date": "2025-04-19 10:02:44+00:00",
+"start_date_local": "2025-04-19 18:02:44",
+"location_country": "\u5496\u55b1\u5c0f\u9986, 1118, \u957f\u5bff\u8def, \u4e09\u5b98\u5802\u6865, \u957f\u5bff\u8def\u8857\u9053, \u66f9\u5bb6\u6e21, \u666e\u9640\u533a, \u4e0a\u6d77\u5e02, 200042, \u4e2d\u56fd",
+"summary_polyline": "_vr}D_kbdVrCGfAG|BWfBKr@An@I~DIz@BZF~Af@ZP~AfAvAvA|@hAh@`A\\d@vGbHvAfBlBzE`AdD^~@XlAj@bD",
+"average_heartrate": 114.0,
+"average_speed": 4.858,
+"elevation_gain": 14.0,
+"source": "strava",
+"streak": 1
 }
 ]
